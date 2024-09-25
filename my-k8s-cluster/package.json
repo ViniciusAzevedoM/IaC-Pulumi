@@ -1,0 +1,12 @@
+{
+    "name": "gke-cluster",
+    "devDependencies": {
+        "@types/node": "^18",
+        "typescript": "^5.0.0"
+    },
+    "dependencies": {
+        "@pulumi/gcp": "^8.0.0",
+        "@pulumi/kubernetes": "^4.18.1",
+        "@pulumi/pulumi": "^3.113.0"
+    }
+}
